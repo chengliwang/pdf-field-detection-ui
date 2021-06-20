@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Auto PDF Field Detection",
+  "name": "Auto Detect Fields in PDF",
   "icons": [
     {
       "src": "favicon.ico",
