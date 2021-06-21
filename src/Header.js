@@ -13,7 +13,7 @@ const Header = () => {
             <Nav.Link href="https://github.com/chengliwang/pdf-field-detection-ui" target="_blank">             
               <OverlayTrigger key="bottom" placement="bottom"
                 overlay={
-                  <Tooltip>Github Repo</Tooltip>
+                  <Tooltip>Github</Tooltip>
                 }
               >
                  <FaGithub size="24" />
