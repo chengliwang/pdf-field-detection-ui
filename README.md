@@ -1,6 +1,10 @@
 # User interface for the pdf-field-detection service
 
-This is the frontend UI for the [pdf-field-detection](https://github.com/chengliwang/pdf-field-detection) service.
+This is the frontend UI for the [pdf-field-detection](https://github.com/chengliwang/pdf-field-detection) service.   
+
+Live demo:   
+
+https://chengliwang.github.io/pdf-field-detection-ui
 
 ### `yarn start`
 
