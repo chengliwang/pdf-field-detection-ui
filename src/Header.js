@@ -5,7 +5,7 @@ const Header = () => {
     return(
       <Navbar fixed="top" bg="primary" variant="dark">
         <Navbar.Brand>
-          <img src="/pdf-icon.png" width="30" height="30" className="d-inline-block align-top" alt="Auto Detect PDF Fields" />
+          <img src="pdf-icon.png" width="30" height="30" className="d-inline-block align-top" alt="Auto Detect PDF Fields" />
           {' '}Auto Detect PDF Fields
         </Navbar.Brand>
         <Navbar.Collapse className="justify-content-end">

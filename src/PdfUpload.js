@@ -10,7 +10,7 @@ const PdfUpload = () => {
   let [ label, setLabel ] = useState("");
   let refreshIntervalId;
   let saved = false;
-  let serviceUrl = "http://pdf-field-detection-svc.eastus2.azurecontainer.io";
+  let serviceUrl = "https://pdf-field-detection-svc.eastus2.azurecontainer.io";
 
   const savePdf = (response) => {
     setProgress(100);
